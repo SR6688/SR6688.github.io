@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of Economics](https://jjxy.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). My research interest includes digital economy and machine learning.
 
-I am very glad to participate in the course of R language Programming and Financial Data Analysis. This is my Experimental Script [Script](../files/Exercise_1.R) and Lab Report [Report](../files/Lab_Report.docx)
+I am very glad to participate in the course of R language Programming and Financial Data Analysis. This is my Lab Script [Script](../files/Exercise_1.R).
 
 [Email](mailto:zhousr2421@mails.jlu.edu.cn) / [Github](https://github.com/SR6688) / [Wechat](../images/wechat.jpg)
 
