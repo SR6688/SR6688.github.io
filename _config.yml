@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shengrui Zhow / Personal Homepage"
+title                    : "Shengrui Zhou / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shengrui Zhou"
 description              : &description "personal description"
