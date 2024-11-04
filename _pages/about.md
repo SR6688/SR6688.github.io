@@ -18,4 +18,10 @@ This is my Lab Script [Script1](../files/Exercise_1.R) [Script2](../files/Exerci
 
 This is my Lab Report [Report1](../files/Lab_Report.pdf) [Report2](../files/Lab_Report2.pdf).
 
+Group presentation topic: Robustness Testing in Empirical Analysis - Based on machine learning methods
+
+This is the report presented by our team [Presentation](../files/Lab_Report.pdf).
+
+This is the script that our team showed [Script](../files/Presentation.R).
+
 [Email](mailto:zhousr2421@mails.jlu.edu.cn) / [Github](https://github.com/SR6688) / [Wechat](../images/wechat.jpg)
