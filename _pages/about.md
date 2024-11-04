@@ -24,4 +24,6 @@ This is the report presented by our team [Presentation](../files/Lab_Report.pdf)
 
 This is the script that our team showed [Script](../files/Presentation.R).
 
+This is the data that our team used [Data](../files/data.csv).
+
 [Email](mailto:zhousr2421@mails.jlu.edu.cn) / [Github](https://github.com/SR6688) / [Wechat](../images/wechat.jpg)
