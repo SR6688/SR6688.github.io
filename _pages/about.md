@@ -26,4 +26,8 @@ This is the script that our team showed [Script](../files/Presentation.R).
 
 This is the data that our team used [Data](../files/data.csv).
 
+New: Python Data Analysis Experiment Report: Enterprise Digital Transformation and Capital market Liquidity
+
+This is the [data](../files/PyData.csv), [code](../files/PyReport.py) and [dofile](../files/PyReport) in the report
+
 [Email](mailto:zhousr2421@mails.jlu.edu.cn) / [Github](https://github.com/SR6688) / [Wechat](../images/wechat.jpg)
