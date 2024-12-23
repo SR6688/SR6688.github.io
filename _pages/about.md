@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+The home page is now complete, and other pages will be updated soon
 
 I'm a third year undergraduate student from [School of Economics](https://jjxy.jlu.edu.cn/), [Jilin University](https://www.jlu.edu.cn/). 
 
