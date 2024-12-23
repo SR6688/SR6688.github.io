@@ -15,11 +15,11 @@ These are the interim results of the paper writing that is now being presented
 
 Project 1: Public data opening and enterprise disruptive innovation
 
-  This is the report presented by me [Presentation](../files/Presentation.pdf).
+  This is the report presented by me [Presentation](../files/Slide.pdf).
 
 Project 2: Research on agricultural catastrophe insurance in Jilin Province
 
-  This is the report presented by me [Presentation](../files/Presentation.pdf).
+  This is the report presented by me [Presentation](../files/Report.pdf).
 
 These are reproductions of the experiments I took in the course
 
