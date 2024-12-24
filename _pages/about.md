@@ -26,7 +26,7 @@ These are reproductions of the experiments I took in the course
 
 Course 1: R language Programming and Financial Data Analysis. 
 
-  Group Presentation topic: Robustness in Empirical Analysis - Based on machine learning methods
+  Group Presentation topic: Robustness in Empirical Analysis - Based on Machine Learning
 
   This is the report presented by our team [Presentation](../files/Presentation.pdf).
 
