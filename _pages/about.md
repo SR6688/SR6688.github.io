@@ -30,6 +30,8 @@ Course 1: R language Programming and Financial Data Analysis.
 
   This is the report presented by our team [Presentation](../files/Presentation.pdf).
 
+  This is my personal data analysis report, including the [full text of the report](../files/数据分析报告.pdf), [the data used](../files/实验数据.xlsx), [the data cleaning code](../files/数据清洗.R) and [the empirical analysis code](../files/实证分析.R).
+
 Course 2: Fundamentals of Computer Programming (Python)
 
   Presentation topic: Enterprise Digital Transformation and Capital market Liquidity
